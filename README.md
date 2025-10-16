@@ -7,6 +7,7 @@
 🎓 Estudiante de la **Universidad Nacional de Colombia**  
 💡 Apasionado por el **desarrollo de software**, la **lógica computacional** y la **resolución de problemas complejos**  
 📧 **Correo de contacto:** [lasm3788@gmail.com](mailto:lasm3788@gmail.com)  
+🎮 Amante de los **Videojuegos** y **Diamante** en **Valorant**
 
 ---
 
@@ -44,5 +45,5 @@ En mis repositorios encontrarás ejemplos de:
 ---
 
 <p align="center">
-  ✨ *“Primero analiza el problema en papel, facilita mucho el código.”* — Edwin Niño  
+  ✨ **“Primero analiza el problema en papel, facilita mucho el código.”** — Edwin Niño  
 </p>
