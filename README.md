@@ -1,12 +1,12 @@
-<h1 align="center">¡Hola!</h1>
+<h1 align="center">👋 ¡Hola, soy broseror3!</h1>
 
 ---
 
-## 📚 Sobre mí
+## 🧑‍🎓 Sobre mí
 
-🎓 Actualmente estudio en la **Universidad Nacional de Colombia**  
-📧 Correo de Contacto: **lasm3788@gmail.com**  
-🌍 Me interesa el desarrollo de software y la resolución de problemas complejos  
+🎓 Estudiante de la **Universidad Nacional de Colombia**  
+💡 Apasionado por el **desarrollo de software**, la **lógica computacional** y la **resolución de problemas complejos**  
+📧 **Correo de contacto:** [lasm3788@gmail.com](mailto:lasm3788@gmail.com)  
 
 ---
 
@@ -17,30 +17,32 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,php" />
 </p>
 
-### 🧩 Editor de Código Favorito
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" />
+### 🧩 Editores de código favoritos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,sublime" />
 </p>
 
 ---
 
-## 🧠 Descripción de proyectos
+## 🚀 Proyectos destacados
 
 En mis repositorios encontrarás ejemplos de:
-- **Aplicacion web** con PHP, JavaScript y base de datos MySQL  
-- Un proyecto grupal documentado y siguiendo buenas prácticas de organización y trabajo coordinado  
+
+- 🌐 **Aplicaciones web** desarrolladas con **PHP**, **JavaScript** y bases de datos **MySQL**  
+- 💼 **Proyectos grupales** documentados y estructurados siguiendo buenas prácticas de organización, trabajo colaborativo y control de versiones  
+- 🧱 Implementaciones limpias, con enfoque en la **legibilidad**, **mantenibilidad** y **buenas prácticas de código**
 
 ---
 
-## 🤝 Trabajo en equipo y coordinación
+## 🤝 Trabajo en equipo y colaboración
 
-🔹 Participo en proyectos colaborativos, aplicando **Git Flow** y control de versiones con ramas bien organizadas.  
-🔹 Contribuyo al desarrollo, documentación y mejora continua de los repositorios del grupo.  
-🔹 Siempre busco mantener un código **limpio, legible y bien comentado**.  
+🔹 Participo activamente en **proyectos colaborativos**, aplicando metodologías como **Git Flow**  
+🔹 Mantengo una estructura de ramas organizada y commits claros  
+🔹 Contribuyo en la **documentación**, **organización** y **mejora continua** de los repositorios  
+🔹 Busco siempre escribir **código limpio, legible y bien comentado**
 
 ---
 
 <p align="center">
-  🚀 *“Primero resuelve el problema, después escribe el código”*  
+  ✨ *“Primero resuelve el problema, después escribe el código.”* — John Johnson  
 </p>
-
