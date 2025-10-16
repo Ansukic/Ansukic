@@ -44,5 +44,5 @@ En mis repositorios encontrarás ejemplos de:
 ---
 
 <p align="center">
-  ✨ *“Primero resuelve el problema, después escribe el código.”* — John Johnson  
+  ✨ *“Primero analiza el problema en papel, facilita mucho el código.”* — Edwin Niño  
 </p>
