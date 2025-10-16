@@ -45,5 +45,5 @@ En mis repositorios encontrarás ejemplos de:
 ---
 
 <p align="center">
-  ✨ **“Primero analiza el problema en papel, facilita mucho el código.”** — Edwin Niño  
+  ✨ <strong>“Primero analiza el problema en papel, facilita mucho el código.”</strong> — Edwin Niño  
 </p>
